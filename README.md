@@ -1,2 +1,2 @@
-# Sales-website-Mini-Mart
-online platform that allows businesses and customers to make transactions for buying and selling products or services.
+# Sales-management-platform-Mini-Mart
+A **sales management platform** is a tool that helps stores track inventory, manage stock, and handle sales transactions efficiently. It enables store owners to oversee all business operations, streamline workflows, and support sales staff in conducting transactions quickly and accurately. This comprehensive solution enhances efficiency and professionalizes store management.
